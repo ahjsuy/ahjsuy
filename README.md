@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/angelina-suy-9018291b2/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="">
+    <a href="https://github.com/ahjsuy/ahjsuy/blob/main/AngelinaResumeFinal.pdf">
         <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge">
     </a>
 </div>
