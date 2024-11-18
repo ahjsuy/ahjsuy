@@ -5,12 +5,6 @@
     <a href="https://www.linkedin.com/in/angelina-suy-9018291b2/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://leetcode.com/u/ahjsuy/">
-        <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
-    </a>
     <a href="">
         <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge">
     </a>
@@ -24,15 +18,15 @@
 
 ### :technologist: About Me :
 
-I am an aspiring web developer newly graduated from UCSB
+I am an aspiring web developer eager to expand my technical knowledge.
 
-- :telescope: I am currently working on passion projects to fuel my self-learning in web developing and seeking jobs that would allow me to further that passion
+- :telescope: I am currently working on passion projects to fuel my self-learning in web developing and seeking jobs that would allow me to further that passion. Specifically working on Potluck Planner, a web app that would allow for easier event organization.
 
-- :seedling: Exploring how to use Firebase to integrate PostgresSQL into web apps
+- :seedling: Exploring how to use Firebase to integrate PostgresSQL into web apps.
 
-- :zap: In my free time, I love to play video games, read, and think of new project ideas
+- :zap: In my free time, I love to play video games, read, and think of new project ideas.
 
-- :mailbox:How to reach me: angelinasuy3@gmail.com
+- :mailbox:How to reach me: angelinasuy3@gmail.com.
 
 ---
 
