@@ -10,7 +10,7 @@
     </a>
 </div>
 <div align="center">
-    <h1> Hey, it's Angelina </h1>
+    <h1> Hey, it's Angelina! </h1>
     
 </div>
 
